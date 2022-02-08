@@ -16,8 +16,13 @@ This is my one-stop shop for all things related to technical writing, informatio
 > Sunday 6 February 2022 10:50
 * Opened a pull request.
 * Merged my pull request to the main branch.
+> Tuesday 8 February 2022 16:52
+* Added the following markdown styles: Bold text, italicised text, heading ids & linking heading ids
+* Forking a repository
+* Looking for issues to contribute towards (Issues page on GitHub)
+* Looking for repositories based on my interest (Explore page on GitHub)
 
-### Topic 1: My Markdown Style Guide
+### My Markdown Style Guide
 This style guide is work in progress. 
 # Heading 1
 ## Heading 2
@@ -39,6 +44,21 @@ Table properties:
 
 [hyperlink](https://www.markdownguide.org/extended-syntax/)
 
+This is **bold** text and it uses **two asterisks**.
+
+This text is ***bold*** and *italicised*.
+
+#### Heading IDs and Linking to Heading IDs
+
+[Useful links](#useful-links)
+
+[My Markdown Style Guide](#my-markdown-style-guide)
+
+## Work in Progress
+* Start reading the GitHub Quickstart guide to learn more about GitHub.
 
 ## What do I want to learn next?
-* Start reading the GitHub Quickstart guide to learn more about GitHub.
+* Download and install Github Desktop.
+* Explore the Explore page on GitHub.
+* Review the [Poliastro website](https://www.poliastro.space) for potential contributions
+* [poliastro issues](https://github.com/poliastro/poliastro/issues)
