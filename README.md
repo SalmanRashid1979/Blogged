@@ -1,3 +1,5 @@
+Music, current affairs, photography, photojournalism, camerawork, reportage (whatever floats your boat). I'll use this space for all this and more. Heck, I'll even write about my day job - technical communication, content strategy, information design/development, API documentation and the sort. Feel free to collaborate if you're interested. I'll keep going regardless.
+
 # **Technical Communication 3.0** 
 This is my one-stop shop for all things related to technical writing, information design/architecture and content strategy. I'll write about what I know and everything else that I am learning on my journey. I would love to learn from your experiences and collaborate with like-minded information professionals.
 
